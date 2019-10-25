@@ -1,0 +1,12 @@
+.buttonWithMargin {
+  margin: 2%;
+}
+.centerPage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.centerElement {
+  display: flex;
+  justify-content: center;
+}

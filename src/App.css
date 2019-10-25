@@ -1,0 +1,10 @@
+@import "~antd/dist/antd.css";
+.App {
+  text-align: center;
+}
+
+.ant-table-thead > tr > th,
+.ant-table-tbody > tr > td {
+  padding: 12px;
+  font-size: 1rem;
+}
