@@ -18,7 +18,7 @@ class EditProduct extends Component {
         type: props.location.state.product.type,
         price: props.location.state.product.price,
         rating: props.location.state.product.rating,
-        warrantyYears: props.location.state.product.warranty_years,
+        warranty_years: props.location.state.product.warranty_years,
         available: props.location.state.product.available
       }
     };
